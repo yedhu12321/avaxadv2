@@ -2,7 +2,7 @@
 // See the file LICENSE for licensing terms.
 
 package registry
-
+ 
 import (
 	"github.com/ava-labs/avalanchego/utils/wrappers"
 	"github.com/ava-labs/avalanchego/vms/platformvm/warp"
